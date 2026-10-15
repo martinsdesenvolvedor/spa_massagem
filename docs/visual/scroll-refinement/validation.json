@@ -1,0 +1,222 @@
+{
+  "pages": [
+    {
+      "width": 1366,
+      "route": "/",
+      "moving": [
+        {
+          "kind": "up",
+          "opacity": "0.502122",
+          "transform": "matrix(1, 0, 0, 1, 0, 21.9066)",
+          "mask": "none"
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 1366,
+      "revealed": 38
+    },
+    {
+      "route": "/about.html",
+      "width": 1366,
+      "revealed": 9
+    },
+    {
+      "route": "/appoinment.html",
+      "width": 1366,
+      "revealed": 3
+    },
+    {
+      "route": "/faq.html",
+      "width": 1366,
+      "revealed": 10
+    },
+    {
+      "route": "/team.html",
+      "width": 1366,
+      "revealed": 7
+    },
+    {
+      "route": "/team-details.html?therapist=felipe",
+      "width": 1366,
+      "revealed": 3
+    },
+    {
+      "route": "/pricing.html",
+      "width": 1366,
+      "revealed": 8
+    },
+    {
+      "route": "/services.html",
+      "width": 1366,
+      "revealed": 9
+    },
+    {
+      "route": "/services-details.html?service=aroma-lavanda",
+      "width": 1366,
+      "revealed": 8
+    },
+    {
+      "route": "/portfolio.html",
+      "width": 1366,
+      "revealed": 10
+    },
+    {
+      "route": "/blog.html",
+      "width": 1366,
+      "revealed": 5
+    },
+    {
+      "route": "/blog-details.html?article=primeira-visita",
+      "width": 1366,
+      "revealed": 9
+    },
+    {
+      "route": "/contact.html",
+      "width": 1366,
+      "revealed": 7
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "moving": [
+        {
+          "kind": "right",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 13.65, 0)",
+          "mask": "none"
+        },
+        {
+          "kind": "up",
+          "opacity": "0.452921",
+          "transform": "matrix(1, 0, 0, 1, 0, 24.0715)",
+          "mask": "none"
+        },
+        {
+          "kind": "up",
+          "opacity": "0.452921",
+          "transform": "matrix(1, 0, 0, 1, 0, 24.0715)",
+          "mask": "none"
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "revealed": 38
+    },
+    {
+      "route": "/about.html",
+      "width": 390,
+      "revealed": 9
+    },
+    {
+      "route": "/appoinment.html",
+      "width": 390,
+      "revealed": 3
+    },
+    {
+      "route": "/faq.html",
+      "width": 390,
+      "revealed": 10
+    },
+    {
+      "route": "/team.html",
+      "width": 390,
+      "revealed": 7
+    },
+    {
+      "route": "/team-details.html?therapist=felipe",
+      "width": 390,
+      "revealed": 3
+    },
+    {
+      "route": "/pricing.html",
+      "width": 390,
+      "revealed": 8
+    },
+    {
+      "route": "/services.html",
+      "width": 390,
+      "revealed": 9
+    },
+    {
+      "route": "/services-details.html?service=aroma-lavanda",
+      "width": 390,
+      "revealed": 8
+    },
+    {
+      "route": "/portfolio.html",
+      "width": 390,
+      "revealed": 10
+    },
+    {
+      "route": "/blog.html",
+      "width": 390,
+      "revealed": 5
+    },
+    {
+      "route": "/blog-details.html?article=primeira-visita",
+      "width": 390,
+      "revealed": 9
+    },
+    {
+      "route": "/contact.html",
+      "width": 390,
+      "revealed": 7
+    }
+  ],
+  "errors": [],
+  "photos": [
+    {
+      "route": "/about.html",
+      "source": "url(\"https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/appoinment.html",
+      "source": "url(\"https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/faq.html",
+      "source": "url(\"http://127.0.0.1:4182/images/aromatherapy-still-life.webp\")"
+    },
+    {
+      "route": "/team.html",
+      "source": "url(\"http://127.0.0.1:4182/images/spa-team.webp\")"
+    },
+    {
+      "route": "/team-details.html?therapist=felipe",
+      "source": "url(\"https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/pricing.html",
+      "source": "url(\"https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/services.html",
+      "source": "url(\"https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/services-details.html?service=aroma-lavanda",
+      "source": "url(\"http://127.0.0.1:4182/images/aromatherapy-still-life.webp\")"
+    },
+    {
+      "route": "/portfolio.html",
+      "source": "url(\"https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/blog.html",
+      "source": "url(\"https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1920&q=85\")"
+    },
+    {
+      "route": "/blog-details.html?article=primeira-visita",
+      "source": "url(\"http://127.0.0.1:4182/images/facial-treatment.webp\")"
+    },
+    {
+      "route": "/contact.html",
+      "source": "url(\"https://images.unsplash.com/photo-1583416750470-965b2707b355?auto=format&fit=crop&w=1920&q=85\")"
+    }
+  ],
+  "reducedMotion": "All content visible; no parallax"
+}

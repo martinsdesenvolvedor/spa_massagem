@@ -1,0 +1,638 @@
+{
+  "screens": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 470.796875,
+      "contentBottom": 913.203125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1440,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 470.796875,
+      "contentBottom": 913.203125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1440,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 470.796875,
+      "contentBottom": 913.203125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1440,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 291.296875,
+      "contentBottom": 732.703125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1080,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 291.296875,
+      "contentBottom": 732.703125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1080,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 291.296875,
+      "contentBottom": 732.703125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 1080,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 226.0625,
+      "contentBottom": 644.9375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 900,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 226.0625,
+      "contentBottom": 644.9375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 900,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 226.0625,
+      "contentBottom": 644.9375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 900,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 191.328125,
+      "contentBottom": 570.109375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 191.328125,
+      "contentBottom": 570.109375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 191.328125,
+      "contentBottom": 570.109375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 181.09375,
+      "contentBottom": 540.515625,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 720,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 218.90625,
+      "contentBottom": 502.703125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 720,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 218.90625,
+      "contentBottom": 502.703125,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 720,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 600,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 209.96875,
+      "contentBottom": 417.015625,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 600,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 600,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 209.96875,
+      "contentBottom": 417.015625,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 600,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1280,
+      "height": 600,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 209.96875,
+      "contentBottom": 417.015625,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 600,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 211.375,
+      "contentBottom": 550.0625,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 245.84375,
+      "contentBottom": 515.609375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 245.84375,
+      "contentBottom": 515.609375,
+      "headerBottom": 96,
+      "overflow": 0,
+      "aboutTop": 768,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 315.59375,
+      "contentBottom": 642.3125,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 1024,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 341.4375,
+      "contentBottom": 616.46875,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 1024,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 341.4375,
+      "contentBottom": 616.46875,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 1024,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 208.828125,
+      "contentBottom": 616.15625,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 844,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 231.140625,
+      "contentBottom": 593.859375,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 844,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 231.140625,
+      "contentBottom": 593.859375,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 844,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 143.15625,
+      "contentBottom": 516.828125,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 667,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 164.609375,
+      "contentBottom": 495.390625,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 667,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 164.609375,
+      "contentBottom": 495.390625,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 667,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 132.234375,
+      "contentBottom": 500.75,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 640,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 152.828125,
+      "contentBottom": 480.171875,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 640,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 152.828125,
+      "contentBottom": 480.171875,
+      "headerBottom": 72,
+      "overflow": 0,
+      "aboutTop": 640,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "slide": 1,
+      "top": 0,
+      "contentTop": 104.109375,
+      "contentBottom": 296.875,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 390,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "slide": 2,
+      "top": 0,
+      "contentTop": 104.109375,
+      "contentBottom": 296.875,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 390,
+      "aboutBg": "rgb(249, 246, 241)"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "slide": 3,
+      "top": 0,
+      "contentTop": 104.109375,
+      "contentBottom": 296.875,
+      "headerBottom": 80,
+      "overflow": 0,
+      "aboutTop": 390,
+      "aboutBg": "rgb(249, 246, 241)"
+    }
+  ],
+  "pages": [
+    {
+      "width": 1366,
+      "path": "/about.html",
+      "title": "Sobre o Élysée | Élysée Spa",
+      "h1": "Sobre o Élysée",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/appoinment.html",
+      "title": "Agendamento | Élysée Spa",
+      "h1": "Agendamento",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/faq.html",
+      "title": "Perguntas frequentes | Élysée Spa",
+      "h1": "Perguntas frequentes",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/team.html",
+      "title": "Nossa equipe | Élysée Spa",
+      "h1": "Nossa equipe",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/team-details.html",
+      "title": "Conheça nosso profissional | Élysée Spa",
+      "h1": "Nossa equipe",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/pricing.html",
+      "title": "Preços & rituais | Élysée Spa",
+      "h1": "Preços & rituais",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/services.html",
+      "title": "Nossos serviços | Élysée Spa",
+      "h1": "Nossos serviços",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/services-details.html",
+      "title": "Detalhes do ritual | Élysée Spa",
+      "h1": "Nossos rituais",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/portfolio.html",
+      "title": "Nosso portfólio | Élysée Spa",
+      "h1": "Nosso portfólio",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/blog.html",
+      "title": "Blog & bem-estar | Élysée Spa",
+      "h1": "Blog & bem-estar",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/blog-details.html",
+      "title": "Diário Élysée | Élysée Spa",
+      "h1": "Diário Élysée",
+      "overflow": 0
+    },
+    {
+      "width": 1366,
+      "path": "/contact.html",
+      "title": "Entre em contato | Élysée Spa",
+      "h1": "Entre em contato",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/about.html",
+      "title": "Sobre o Élysée | Élysée Spa",
+      "h1": "Sobre o Élysée",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/appoinment.html",
+      "title": "Agendamento | Élysée Spa",
+      "h1": "Agendamento",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/faq.html",
+      "title": "Perguntas frequentes | Élysée Spa",
+      "h1": "Perguntas frequentes",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/team.html",
+      "title": "Nossa equipe | Élysée Spa",
+      "h1": "Nossa equipe",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/team-details.html",
+      "title": "Conheça nosso profissional | Élysée Spa",
+      "h1": "Nossa equipe",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/pricing.html",
+      "title": "Preços & rituais | Élysée Spa",
+      "h1": "Preços & rituais",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/services.html",
+      "title": "Nossos serviços | Élysée Spa",
+      "h1": "Nossos serviços",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/services-details.html",
+      "title": "Detalhes do ritual | Élysée Spa",
+      "h1": "Nossos rituais",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/portfolio.html",
+      "title": "Nosso portfólio | Élysée Spa",
+      "h1": "Nosso portfólio",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/blog.html",
+      "title": "Blog & bem-estar | Élysée Spa",
+      "h1": "Blog & bem-estar",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/blog-details.html",
+      "title": "Diário Élysée | Élysée Spa",
+      "h1": "Diário Élysée",
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "path": "/contact.html",
+      "title": "Entre em contato | Élysée Spa",
+      "h1": "Entre em contato",
+      "overflow": 0
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "accessibility": [
+    {
+      "path": "/",
+      "violations": []
+    },
+    {
+      "path": "about",
+      "violations": []
+    },
+    {
+      "path": "team",
+      "violations": []
+    },
+    {
+      "path": "services",
+      "violations": []
+    },
+    {
+      "path": "portfolio",
+      "violations": []
+    },
+    {
+      "path": "blog",
+      "violations": []
+    },
+    {
+      "path": "contact",
+      "violations": []
+    }
+  ]
+}

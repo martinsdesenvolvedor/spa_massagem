@@ -1,0 +1,352 @@
+[
+  {
+    "url": "https://beauty.websitelayout.net/about.html",
+    "title": "Beauty - Spa Salon & Wellness HTML Template",
+    "headings": [
+      {
+        "t": "About Us",
+        "top": 170,
+        "size": "64px"
+      },
+      {
+        "t": "Organic Fresh Spa Treatment",
+        "top": 628.625,
+        "size": "40px"
+      },
+      {
+        "t": "25+",
+        "top": 887.015625,
+        "size": "32px"
+      },
+      {
+        "t": "Book & Feel Our Incredible Spa Experience",
+        "top": 1574.75,
+        "size": "56px"
+      },
+      {
+        "t": "Discover The Ultimate Spa Massage Experience",
+        "top": 2084.015625,
+        "size": "40px"
+      },
+      {
+        "t": "Our Experience Specialists",
+        "top": 2826.40625,
+        "size": "40px"
+      },
+      {
+        "t": "Newsletter",
+        "top": 3640.46875,
+        "size": "24px"
+      },
+      {
+        "t": "Contacts",
+        "top": 3640.46875,
+        "size": "24px"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://beauty.websitelayout.net/img/logos/logo-inner.png",
+        "w": 190,
+        "h": 53
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/content/about-07.jpg",
+        "w": 268,
+        "h": 488
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/content/about-08.jpg",
+        "w": 268,
+        "h": 488
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-41.png",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-28.png",
+        "w": 50,
+        "h": 50
+      }
+    ],
+    "height": 4006
+  },
+  {
+    "url": "https://beauty.websitelayout.net/services.html",
+    "title": "Beauty - Spa Salon & Wellness HTML Template",
+    "headings": [
+      {
+        "t": "Our Services",
+        "top": 170,
+        "size": "64px"
+      },
+      {
+        "t": "Welcome to the Beauty & Spa Center",
+        "top": 625.8187255859375,
+        "size": "40px"
+      },
+      {
+        "t": "Massage Therapy",
+        "top": 979.6665649414062,
+        "size": "28px"
+      },
+      {
+        "t": "Aroma Therapy",
+        "top": 986.6773681640625,
+        "size": "28px"
+      },
+      {
+        "t": "Organic Therapy",
+        "top": 995.4517211914062,
+        "size": "28px"
+      },
+      {
+        "t": "Facial Treatments",
+        "top": 1339.671875,
+        "size": "28px"
+      },
+      {
+        "t": "Body Waxing",
+        "top": 1339.671875,
+        "size": "28px"
+      },
+      {
+        "t": "Modern Beauty",
+        "top": 1339.671875,
+        "size": "28px"
+      },
+      {
+        "t": "We Offer all types of Massage Therapy",
+        "top": 2396.203125,
+        "size": "40px"
+      },
+      {
+        "t": "Newsletter",
+        "top": 3220.75,
+        "size": "24px"
+      },
+      {
+        "t": "Contacts",
+        "top": 3220.75,
+        "size": "24px"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://beauty.websitelayout.net/img/logos/logo-inner.png",
+        "w": 190,
+        "h": 53
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/content/shape-11.png",
+        "w": 193,
+        "h": 158
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/service/service-01.jpg",
+        "w": 171,
+        "h": 171
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-22.png",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/content/shape-11.png",
+        "w": 193,
+        "h": 158
+      }
+    ],
+    "height": 3586
+  },
+  {
+    "url": "https://beauty.websitelayout.net/portfolio.html",
+    "title": "Beauty - Spa Salon & Wellness HTML Template",
+    "headings": [
+      {
+        "t": "Portfolio Standard",
+        "top": 170,
+        "size": "64px"
+      },
+      {
+        "t": "Newsletter",
+        "top": 1968.90625,
+        "size": "24px"
+      },
+      {
+        "t": "Contacts",
+        "top": 1968.90625,
+        "size": "24px"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://beauty.websitelayout.net/img/logos/logo-inner.png",
+        "w": 190,
+        "h": 53
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/portfolio/portfolio-05.jpg",
+        "w": 366,
+        "h": 449
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/portfolio/portfolio-06.jpg",
+        "w": 366,
+        "h": 449
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/portfolio/portfolio-07.jpg",
+        "w": 366,
+        "h": 449
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/portfolio/portfolio-08.jpg",
+        "w": 366,
+        "h": 449
+      }
+    ],
+    "height": 2334
+  },
+  {
+    "url": "https://beauty.websitelayout.net/blog-grid.html",
+    "title": "Beauty - Spa Salon & Wellness HTML Template",
+    "headings": [
+      {
+        "t": "Blog Standard",
+        "top": 170,
+        "size": "64px"
+      },
+      {
+        "t": "Can I Run a Beauty Business from Home",
+        "top": 872.546875,
+        "size": "24px"
+      },
+      {
+        "t": "What are the different types of salon ownership",
+        "top": 872.546875,
+        "size": "24px"
+      },
+      {
+        "t": "What type of business is Beauty Salon",
+        "top": 872.546875,
+        "size": "24px"
+      },
+      {
+        "t": "Top Seven Trends In Beauty & Spa To Watch.",
+        "top": 1341.078125,
+        "size": "24px"
+      },
+      {
+        "t": "Skills That You Can Learn From Beauty & Spa.",
+        "top": 1341.078125,
+        "size": "24px"
+      },
+      {
+        "t": "5 Things You Most Likely Didn't Know About Beauty.",
+        "top": 1341.078125,
+        "size": "24px"
+      },
+      {
+        "t": "Newsletter",
+        "top": 1718.25,
+        "size": "24px"
+      },
+      {
+        "t": "Contacts",
+        "top": 1718.25,
+        "size": "24px"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://beauty.websitelayout.net/img/logos/logo-inner.png",
+        "w": 190,
+        "h": 53
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/blog/blog-09.jpg",
+        "w": 350,
+        "h": 258
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/blog/blog-10.jpg",
+        "w": 350,
+        "h": 258
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/blog/blog-11.jpg",
+        "w": 350,
+        "h": 258
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/blog/blog-12.jpg",
+        "w": 350,
+        "h": 258
+      }
+    ],
+    "height": 2084
+  },
+  {
+    "url": "https://beauty.websitelayout.net/contact.html",
+    "title": "Beauty - Spa Salon & Wellness HTML Template",
+    "headings": [
+      {
+        "t": "Contact Us",
+        "top": 170,
+        "size": "64px"
+      },
+      {
+        "t": "Our Contact Information",
+        "top": 667.6875,
+        "size": "40px"
+      },
+      {
+        "t": "Get In Touch",
+        "top": 1531.578125,
+        "size": "40px"
+      },
+      {
+        "t": "Newsletter",
+        "top": 2391.0625,
+        "size": "24px"
+      },
+      {
+        "t": "Contacts",
+        "top": 2391.0625,
+        "size": "24px"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://beauty.websitelayout.net/img/logos/logo-inner.png",
+        "w": 190,
+        "h": 53
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-06.png",
+        "w": 22,
+        "h": 22
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-07.png",
+        "w": 22,
+        "h": 22
+      },
+      {
+        "src": "https://beauty.websitelayout.net/img/icons/icon-05.png",
+        "w": 22,
+        "h": 22
+      },
+      {
+        "src": "https://beauty.websitelayout.net/quform/images/captcha/courier-new-light.png",
+        "w": 75,
+        "h": 27
+      }
+    ],
+    "height": 2757
+  }
+]

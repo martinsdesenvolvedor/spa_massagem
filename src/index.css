@@ -1,0 +1,234 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #232323;
+    background-color: #ffffff;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
+
+:root {
+  --primary: #ff497c;
+  --primary-hover: #e03264;
+  --secondary: #232323;
+  --bg-creamy: #fcf8f6;
+  --bg-cream-soft: #fbf2ee;
+}
+
+/* =======================================================
+   ANIMATIONS & KEYFRAMES (MATCHING BEAUTY TEMPLATE)
+   ======================================================= */
+
+/* 1. CLOUD / SMOKE MOVE (HERO BANNER ENFUMAÇADO) */
+@keyframes cloudMove {
+  0% {
+    background-position: 0 100%;
+  }
+  100% {
+    background-position: 3784px 100%;
+  }
+}
+
+@keyframes cloudMoveReverse {
+  0% {
+    background-position: 3784px 100%;
+  }
+  100% {
+    background-position: 0 100%;
+  }
+}
+
+/* Smoke cloud layers */
+.hero-smoke-layer-1 {
+  position: absolute;
+  left: 0;
+  bottom: -60px;
+  width: 100%;
+  height: 440px;
+  z-index: 15;
+  content: "";
+  background-image: url('/img/content/shape-12.png');
+  background-position: bottom center;
+  background-repeat: repeat-x;
+  background-size: 1892px 440px;
+  animation: cloudMove 48s linear infinite;
+  pointer-events: none;
+  opacity: 0.95;
+  filter: drop-shadow(0 -10px 20px rgba(0,0,0,0.1));
+}
+
+.hero-smoke-layer-2 {
+  position: absolute;
+  left: 0;
+  bottom: -20px;
+  width: 100%;
+  height: 480px;
+  z-index: 14;
+  content: "";
+  background-image: url('/img/content/shape-12.png');
+  background-position: bottom center;
+  background-repeat: repeat-x;
+  background-size: 2100px 480px;
+  animation: cloudMoveReverse 68s linear infinite;
+  pointer-events: none;
+  opacity: 0.65;
+  filter: blur(1px);
+}
+
+.hero-smoke-layer-3 {
+  position: absolute;
+  left: 0;
+  bottom: -90px;
+  width: 100%;
+  height: 380px;
+  z-index: 16;
+  content: "";
+  background-image: url('/img/content/shape-12.png');
+  background-position: bottom center;
+  background-repeat: repeat-x;
+  background-size: 1600px 380px;
+  animation: cloudMove 36s linear infinite;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+/* 2. ROTATING MANDALA / SHAPES (ani-rotated) */
+@keyframes rotated {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.ani-rotated {
+  animation: rotated 35s infinite linear;
+}
+
+.ani-rotated-slow {
+  animation: rotated 55s infinite linear;
+}
+
+/* 3. FLOAT UP & DOWN (ani-top-bottom) */
+@keyframes TopBottom {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-26px);
+  }
+}
+
+.ani-top-bottom {
+  animation: TopBottom 5s ease-in-out infinite;
+}
+
+/* 4. FLOAT LEFT & RIGHT (ani-left-right) */
+@keyframes LeftRight {
+  0%, 100% {
+    transform: translateX(0px);
+  }
+  50% {
+    transform: translateX(25px);
+  }
+}
+
+.ani-left-right {
+  animation: LeftRight 6s ease-in-out infinite;
+}
+
+/* 5. FADE IN UP ANIMATION */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* 6. GLOW PULSE */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(255, 73, 124, 0.45);
+  }
+  50% {
+    box-shadow: 0 0 0 16px rgba(255, 73, 124, 0);
+  }
+}
+
+.animate-glow-pulse {
+  animation: pulseGlow 2.5s infinite;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1edea;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff497c;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e03264;
+}
+
+/* Decorative luxury title lines */
+.title-line {
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  height: 2px;
+  background-color: #ff497c;
+}
+
+.title-line::after {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ff497c;
+  top: -3px;
+  right: -4px;
+}
+
+.title-line-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 12px auto 20px auto;
+}
+
+.title-line-center::before,
+.title-line-center::after {
+  content: '';
+  height: 1px;
+  width: 45px;
+  background-color: #ff497c;
+}
+
+.title-line-center span {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  background-color: #ff497c;
+  border-radius: 50%;
+  margin: 0 8px;
+}

@@ -1,0 +1,53 @@
+{
+  "timings": {
+    "cloud": "60s",
+    "text": [
+      {
+        "delay": "0.8s",
+        "duration": "1s",
+        "opacity": "1"
+      },
+      {
+        "delay": "1.2s",
+        "duration": "1s",
+        "opacity": "1"
+      },
+      {
+        "delay": "1.4s",
+        "duration": "1s",
+        "opacity": "1"
+      },
+      {
+        "delay": "1.6s",
+        "duration": "1s",
+        "opacity": "1"
+      },
+      {
+        "delay": "1.8s",
+        "duration": "1s",
+        "opacity": "1"
+      }
+    ],
+    "background": "1s",
+    "leaf": "5s"
+  },
+  "cloud": "movement verified",
+  "crossfade": [
+    "0.632272",
+    "1"
+  ],
+  "autoplay": {
+    "before": "Revitalização do Corpo & Mente",
+    "after": "Rituais Orgânicos & Saúde Plena"
+  },
+  "seam": [
+    0,
+    0,
+    0
+  ],
+  "testimonials": [
+    "matrix(1, 0, 0, 1, -536.214, 0)",
+    "matrix(1, 0, 0, 1, 229.786, 0)"
+  ],
+  "faq": "open/close verified"
+}

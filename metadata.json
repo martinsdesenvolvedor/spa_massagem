@@ -1,0 +1,6 @@
+{
+  "name": "Élysée Spa & Wellness Sanctuary",
+  "description": "Luxurious spa, beauty and wellness salon sanctuary with relaxing therapies, organic treatments, appointment booking and massage packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
